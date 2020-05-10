@@ -309,7 +309,7 @@ enabled:
 
 ## BLTouch
 
-The following command is available when a "bltouch" config section is
+The following commands are available when a "bltouch" config section is
 enabled:
 - `BLTOUCH_DEBUG COMMAND=<command>`: This sends a command to the
   BLTouch. It may be useful for debugging. Available commands are:
